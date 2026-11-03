@@ -64,5 +64,4 @@ before returning an item. This is an academic demonstration, not an official
 campus security or identity-verification system.
 
 ## Author
-Add your name, registration number, course, and assessment details here before
-submitting.
+R.Veda Varshitha 26BCE1683 
